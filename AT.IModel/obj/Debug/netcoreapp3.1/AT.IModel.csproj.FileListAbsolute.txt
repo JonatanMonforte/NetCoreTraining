@@ -1,0 +1,9 @@
+C:\Users\Jonat\Documents\NetCoreTraining\AT.IModel\bin\Debug\netcoreapp3.1\AT.IModel.deps.json
+C:\Users\Jonat\Documents\NetCoreTraining\AT.IModel\bin\Debug\netcoreapp3.1\AT.IModel.dll
+C:\Users\Jonat\Documents\NetCoreTraining\AT.IModel\bin\Debug\netcoreapp3.1\AT.IModel.pdb
+C:\Users\Jonat\Documents\NetCoreTraining\AT.IModel\obj\Debug\netcoreapp3.1\AT.IModel.csprojAssemblyReference.cache
+C:\Users\Jonat\Documents\NetCoreTraining\AT.IModel\obj\Debug\netcoreapp3.1\AT.IModel.AssemblyInfoInputs.cache
+C:\Users\Jonat\Documents\NetCoreTraining\AT.IModel\obj\Debug\netcoreapp3.1\AT.IModel.AssemblyInfo.cs
+C:\Users\Jonat\Documents\NetCoreTraining\AT.IModel\obj\Debug\netcoreapp3.1\AT.IModel.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\Documents\NetCoreTraining\AT.IModel\obj\Debug\netcoreapp3.1\AT.IModel.dll
+C:\Users\Jonat\Documents\NetCoreTraining\AT.IModel\obj\Debug\netcoreapp3.1\AT.IModel.pdb
